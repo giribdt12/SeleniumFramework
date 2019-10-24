@@ -1,0 +1,53 @@
+15:44:23.824 [main] INFO  com.app.qa.base.TestBase - Driver exit
+15:44:23.834 [main] INFO  com.app.qa.base.TestBase - TestCase Completed
+15:44:33.222 [main] INFO  com.app.qa.base.TestBase - TestCase Started
+15:44:33.222 [main] INFO  com.app.qa.base.TestBase - Driver is initialized and navigated to url
+15:44:33.939 [main] INFO  com.app.qa.base.TestBase - Entered the 'From' location
+15:44:34.688 [main] INFO  com.app.qa.base.TestBase - Entered the 'To' location
+15:44:34.848 [main] INFO  com.app.qa.base.TestBase - Entered the Departure date
+15:44:35.115 [main] INFO  com.app.qa.base.TestBase - Entered the Return date
+15:44:35.307 [main] INFO  com.app.qa.base.TestBase - Clicked on Search button
+15:44:38.415 [main] INFO  com.app.qa.base.TestBase - Driver exit
+15:44:38.416 [main] INFO  com.app.qa.base.TestBase - TestCase Completed
+15:44:47.633 [main] INFO  com.app.qa.base.TestBase - TestCase Started
+15:44:47.633 [main] INFO  com.app.qa.base.TestBase - Driver is initialized and navigated to url
+15:44:48.696 [main] INFO  com.app.qa.base.TestBase - Entered the 'From' location
+15:44:49.414 [main] INFO  com.app.qa.base.TestBase - Entered the 'To' location
+15:44:49.623 [main] INFO  com.app.qa.base.TestBase - Entered the Departure date
+15:44:49.915 [main] INFO  com.app.qa.base.TestBase - Entered the Return date
+15:44:50.146 [main] INFO  com.app.qa.base.TestBase - Clicked on Search button
+15:44:53.197 [main] INFO  com.app.qa.base.TestBase - Driver exit
+15:44:53.197 [main] INFO  com.app.qa.base.TestBase - TestCase Completed
+10:08:39.098 [main] INFO  com.app.qa.base.TestBase - TestCase Started
+10:08:39.122 [main] INFO  com.app.qa.base.TestBase - Driver is initialized and navigated to url
+10:08:39.181 [main] INFO  com.app.qa.base.TestBase - The page title is: Online flight booking, Hotels, Bus &amp; Holiday Packages at Goibibo
+10:08:39.186 [main] INFO  com.app.qa.base.TestBase - Successgully validated the title for FlightSearch page
+10:08:42.821 [main] INFO  com.app.qa.base.TestBase - Driver exit
+10:08:42.822 [main] INFO  com.app.qa.base.TestBase - TestCase Completed
+10:08:54.225 [main] INFO  com.app.qa.base.TestBase - TestCase Started
+10:08:54.226 [main] INFO  com.app.qa.base.TestBase - Driver is initialized and navigated to url
+10:08:55.288 [main] INFO  com.app.qa.base.TestBase - Entered the 'From' location
+10:08:56.239 [main] INFO  com.app.qa.base.TestBase - Entered the 'To' location
+10:08:56.573 [main] INFO  com.app.qa.base.TestBase - Entered the Departure date
+10:08:56.882 [main] INFO  com.app.qa.base.TestBase - Entered the Return date
+10:08:57.148 [main] INFO  com.app.qa.base.TestBase - Clicked on Search button
+10:09:00.588 [main] INFO  com.app.qa.base.TestBase - Driver exit
+10:09:00.588 [main] INFO  com.app.qa.base.TestBase - TestCase Completed
+10:09:10.524 [main] INFO  com.app.qa.base.TestBase - TestCase Started
+10:09:10.524 [main] INFO  com.app.qa.base.TestBase - Driver is initialized and navigated to url
+10:09:11.588 [main] INFO  com.app.qa.base.TestBase - Entered the 'From' location
+10:09:12.461 [main] INFO  com.app.qa.base.TestBase - Entered the 'To' location
+10:09:12.683 [main] INFO  com.app.qa.base.TestBase - Entered the Departure date
+10:09:13.083 [main] INFO  com.app.qa.base.TestBase - Entered the Return date
+10:09:13.370 [main] INFO  com.app.qa.base.TestBase - Clicked on Search button
+10:09:16.868 [main] INFO  com.app.qa.base.TestBase - Driver exit
+10:09:16.868 [main] INFO  com.app.qa.base.TestBase - TestCase Completed
+10:09:27.174 [main] INFO  com.app.qa.base.TestBase - TestCase Started
+10:09:27.174 [main] INFO  com.app.qa.base.TestBase - Driver is initialized and navigated to url
+10:09:28.252 [main] INFO  com.app.qa.base.TestBase - Entered the 'From' location
+10:09:29.264 [main] INFO  com.app.qa.base.TestBase - Entered the 'To' location
+10:09:29.520 [main] INFO  com.app.qa.base.TestBase - Entered the Departure date
+10:09:29.880 [main] INFO  com.app.qa.base.TestBase - Entered the Return date
+10:09:30.158 [main] INFO  com.app.qa.base.TestBase - Clicked on Search button
+10:09:33.604 [main] INFO  com.app.qa.base.TestBase - Driver exit
+10:09:33.604 [main] INFO  com.app.qa.base.TestBase - TestCase Completed

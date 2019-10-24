@@ -1,0 +1,13 @@
+-------------------------------------------------------------------------------
+Test set: com.app.qa.testcases.FlightSearchTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 13.322 sec <<< FAILURE!
+verfiyFlightSearchTitleTest(com.app.qa.testcases.FlightSearchTest)  Time elapsed: 0.048 sec  <<< FAILURE!
+java.lang.AssertionError: expected [GoAir: Book Cheap Flight Tickets Online for Domestic & International Destination] but found [GoAir: Book Cheap Flight Tickets Online for Domestic & International Destinations]
+	at org.testng.Assert.fail(Assert.java:97)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:136)
+	at org.testng.Assert.assertEquals(Assert.java:118)
+	at org.testng.Assert.assertEquals(Assert.java:575)
+	at org.testng.Assert.assertEquals(Assert.java:585)
+	at com.app.qa.testcases.FlightSearchTest.verfiyFlightSearchTitleTest(FlightSearchTest.java:35)
+
